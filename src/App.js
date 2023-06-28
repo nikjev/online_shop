@@ -10,7 +10,7 @@ const products = [
 		description:
 			"Vivamus vitae neque accumsan, ultrices nisl et, viverra magna. Fusce nec maximus sem.",
 		price: 199.99,
-		image: require("./assets/images/product-1.png"),
+		image: require("./assets/images/product1.png"),
 	},
 	{
 		id: 2,
@@ -18,7 +18,7 @@ const products = [
 		description:
 			"Maecenas fermentum urna egestas urna ullamcorper sodales. Sed a enim imperdiet, tempus massa a, iaculis tellus.",
 		price: 229.99,
-		image: require("./assets/images/product-2.png"),
+		image: require("./assets/images/product2.png"),
 	},
 	{
 		id: 3,
@@ -26,7 +26,7 @@ const products = [
 		description:
 			"Praesent et orci vel nunc interdum aliquet et non dolor. Etiam eget finibus justo",
 		price: 99.99,
-		image: require("./assets/images/product-3.png"),
+		image: require("./assets/images/product3.png"),
 	},
 	{
 		id: 4,
@@ -34,7 +34,7 @@ const products = [
 		description:
 			"Duis nibh sapien, placerat non nulla ac, suscipit laoreet tortor.",
 		price: 119.99,
-		image: require("./assets/images/product-4.png"),
+		image: require("./assets/images/product4.png"),
 	},
 	{
 		id: 5,
@@ -42,7 +42,7 @@ const products = [
 		description:
 			"Phasellus condimentum, ante et dictum placerat, nulla ipsum commodo lorem, ut mollis nibh turpis a metus.",
 		price: 85,
-		image: require("./assets/images/product-5.jpg"),
+		image: require("./assets/images/product5.jpg"),
 	},
 	{
 		id: 6,
@@ -50,7 +50,7 @@ const products = [
 		description:
 			" Mauris convallis diam nibh, non malesuada enim facilisis non. Etiam sapien augue, molestie a porta sed",
 		price: 149.99,
-		image: require("./assets/images/product-6.png"),
+		image: require("./assets/images/product6.png"),
 	},
 ];
 
